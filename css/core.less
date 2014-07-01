@@ -129,7 +129,7 @@ body {
 // Tilted lines
 .clipper, .clipper-footer {
   background-color: #fff;
-  height: 90px;
+  height: 110px;
   width: 100%;
   position: relative;
   top: -40px;
@@ -161,6 +161,14 @@ section.content {
     margin-bottom: 20px;
     margin-top: 20px;
   }
+  & .container > hr {
+    -webkit-transform: skew(0,2deg);
+    -moz-transform: skew(0,2deg);
+    -ms-transform: skew(0,2deg);
+    transform: skew(0,2deg);
+    margin-top: 80px;
+    margin-bottom: 40px;
+  }
 }
 
 // ##############################################
@@ -175,10 +183,10 @@ footer {
     float: left;
     display: inline-block;
     margin-right: 5px;
-    margin-top: -10px;
+    margin-top: -8px;
     .circle{
       stroke: @lab-grey; 
-      stroke-width:4; 
+      stroke-width: 7; 
       fill: none;
     }
     .polygon{fill: @lab-grey;}
