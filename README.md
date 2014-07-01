@@ -1,7 +1,14 @@
 # Tortin Theme
 [Live Demo and Docs](http://vtex.github.io/tortin)
 
-![Screenshot](http://i.minus.com/iiylMBLjsgCzj.png)
+## Screenshots
+![Screenshot](http://i.minus.com/ihZq7Se2NpiPB.png)
+
+![Screenshot red](http://i.minus.com/issgRF9tcUHU0.png)
+
+![Screenshot green](http://i.minus.com/ibb3xlprFDhmkZ.png)
+
+![Screenshot black](http://i.minus.com/i74CW0rF3fjhr.png)
 
 Tortin is a Bootstrap 3 based theme for [GitHub Pages](http://pages.github.com/) with four color options.
 
