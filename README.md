@@ -7,7 +7,7 @@
 Tortin is a Bootstrap 3 based theme for [GitHub Pages](http://pages.github.com/) with four color options.
 
 ##Download
-Get the compiled version. (soon)
+[Get the compiled version](https://github.com/vtex/tortin/archive/gh-pages.zip)
 
 ##Compile
 Download repo files and use [Harp](http://harpjs.com) to test and compile the theme.
