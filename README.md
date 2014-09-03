@@ -2,11 +2,11 @@
 [Live Demo and Docs](http://vtex.github.io/tortin)
 
 ## Screenshots
-![Screenshot](http://i.minus.com/ihZq7Se2NpiPB.png)
+![Screenshot](http://i.minus.com/iiylMBLjsgCzj.png)
 
-![Screenshot red](http://i.minus.com/issgRF9tcUHU0.png)
+![Screenshot red](http://minus.com/i/ssgRF9tcUHU0)
 
-![Screenshot green](http://i.minus.com/ibb3xlprFDhmkZ.png)
+![Screenshot green](http://i.minus.com/jbb3xlprFDhmkZ.png)
 
 ![Screenshot black](http://i.minus.com/i74CW0rF3fjhr.png)
 
