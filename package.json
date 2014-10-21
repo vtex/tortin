@@ -20,7 +20,8 @@
     "grunt-karma": "~0.6.1",
     "grunt-usemin": "2.0.2",
     "grunt-shell": "^0.7.0",
-    "grunt-vtex": "^0.8.1"
+    "grunt-vtex": "^0.8.1",
+    "grunt-gh-pages": "^0.9.1"
   },
   "repository": {
     "type": "git",
