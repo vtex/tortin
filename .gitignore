@@ -6,3 +6,4 @@ build-raw
 npm-debug.log
 .idea/
 deploy/
+.grunt/
