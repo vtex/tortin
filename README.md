@@ -2,25 +2,25 @@
 [Live Demo and Docs](http://vtex.github.io/tortin)
 
 ## Screenshots
-![Screenshot](http://i.minus.com/iiylMBLjsgCzj.png)
+![Screenshot](https://i.imgur.com/BcDPRiZ.png)
 
-![Screenshot red](http://minus.com/i/ssgRF9tcUHU0)
+![Screenshot red](https://i.imgur.com/rwcjQHm.png)
 
-![Screenshot green](http://i.minus.com/jbb3xlprFDhmkZ.png)
+![Screenshot green](https://i.imgur.com/U1LWOdi.png)
 
-![Screenshot black](http://i.minus.com/i74CW0rF3fjhr.png)
+![Screenshot black](https://i.imgur.com/tyaj8aC.png)
 
 Tortin is a Bootstrap 3 based theme for [GitHub Pages](http://pages.github.com/) with four color options.
 
-##Download
+## Download
 [Get the compiled version](https://github.com/vtex/tortin/archive/gh-pages.zip)
 
 [Get the compiled version with customized color]  **SOON**
 
-##Compile
-Download repo files and use [Harp](http://harpjs.com) to test and compile the theme.
+## Running
+Download repo files and run `npm i` and then `grunt`.
 
-###Chosing a color
+### Chosing a color
 Just open the `variables.less` file in `css` folder and choose between colors editing the comments lines:
 
 ```less
